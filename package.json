@@ -1,0 +1,24 @@
+{
+  "name": "qrius-sauce-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusha-poudel/qrius-sauce-demo.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anusha-poudel/qrius-sauce-demo/issues"
+  },
+  "homepage": "https://github.com/anusha-poudel/qrius-sauce-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  }
+}
