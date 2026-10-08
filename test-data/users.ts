@@ -7,4 +7,5 @@ export const users = {
   performanceGlitch: { username: 'performance_glitch_user', password },
   error: { username: 'error_user', password },
   visual: { username: 'visual_user', password },
+  invalid: { username: 'wrong_user', password: 'wrong_password' },
 };
